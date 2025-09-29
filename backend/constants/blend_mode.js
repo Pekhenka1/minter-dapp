@@ -5,7 +5,7 @@ const MODE = {
   sourceAtop: "source-out",
   destinationOver: "destination-over",
   destinationIn: "destination-in",
-  destinationOut: "destination-out",
+  destinationOut: "destination",
   destinationAtop: "destination-atop",
   lighter: "lighter",
   copy: "copy",
