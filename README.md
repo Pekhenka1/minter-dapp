@@ -6,7 +6,7 @@
 - [INSTALLATION](#installation)
   - [BACKEND](#backend)
   - [BACKEND COMMANDS](#backend-commands)
-  - [FRONTEND](#frontend)
+  - [FRONTEND](#frontend)ы
 
 ## RESOURCESы
 
