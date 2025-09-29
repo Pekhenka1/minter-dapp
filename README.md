@@ -10,7 +10,7 @@
 
 ## RESOURCESы
 
-### Main Video
+### Main Videosd
 
 🌟 [EASY Minting dApp | Whitelisting | Entire Process!! Create an Entire NFT Collection (10,000+)](https://youtu.be/cLB7u0KQFIs)
 s
