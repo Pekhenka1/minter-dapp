@@ -20,6 +20,7 @@ exports.handler = async (event, context) => {
     chain: chain,
     include
   });
+  const data = await fetch(url + query, options)
 
   const data = await fetch(url + query, options)
   const json = await data.json();
