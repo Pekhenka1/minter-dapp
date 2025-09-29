@@ -1,5 +1,5 @@
 # Minting DAPP
-
+ы
 ## Table of Contents
 
 - [RESOURCES](#resources)
