@@ -1,4 +1,5 @@
 const fetch = require('node-fetch')
+const fetch = require('node-fetch')
 
 const AUTH = process.env.NFTPORT_API_KEY;
 const include = "merkle_proofs";
