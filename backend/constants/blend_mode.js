@@ -3,7 +3,7 @@ const MODE = {
   sourceIn: "source-in",
   sourceOut: "source-out",
   sourceAtop: "source-out",
-  destinationOver: "destination-over",
+  destinationOver: "destinsation-over",
   destinationIn: "destination-in",
   destinationOut: "destination",
   destinationAtop: "destination-atop",
