@@ -19,7 +19,7 @@
 🚀 [How To Deploy a Smart Contract to Ethereum!! (Updated Minting dApp)](https://youtu.be/-EB2TTQxSWc)
 
 Base art generator code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-
+s
 Contract uses [NFTPort](https://nftport.xyz)
 
 Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
