@@ -8,7 +8,7 @@
   - [BACKEND COMMANDS](#backend-commands)
   - [FRONTEND](#frontend)
 
-## RESOURCES
+## RESOURCESы
 
 ### Main Video
 
