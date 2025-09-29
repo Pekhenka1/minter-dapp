@@ -8,6 +8,7 @@ exports.handler = async (event, context) => {
   const chain = event.queryStringParameters && event.queryStringParameters.chain
   const contract_address = event.queryStringParameters && event.queryStringParameters.contract
   const url = 'https://api.nftport.xyz/v0/me/contracts/collections?';
+const include = "merkle_proofs";
 
   const options = {
     method: 'GET',
