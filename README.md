@@ -1,4 +1,4 @@
-# Minting DAPP
+# Minting DAPP v2
 
 ## Table of Contents
 
